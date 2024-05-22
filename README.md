@@ -22,7 +22,7 @@ SpiceSaga Eatery is a contemporary restaurant offering a fusion of traditional a
 ## Screenshots
 
 ### Home Page
-![Home Page](https://drive.google.com/file/d/1zSH4CEbvp69sV3UjKp8AyQu8Mg4cDdCf/view?usp=drive_link)
+![Home Page](https://drive.google.com/file/d/1zSH4CEbvp69sV3UjKp8AyQu8Mg4cDdCf/view?usp=sharing)
 
 ### Menu
 ![Menu](menu_screenshot_url)

@@ -10,6 +10,8 @@ const About = () => {
           my: 15,
           textAlign: "center",
           p: 2,
+          fontFamily: "'Arial', sans-serif", // Changed font to Arial
+          backgroundColor: "#C8E6C9", // Changed background color to green
           "& h4": {
             fontWeight: "bold",
             my: 2,
@@ -26,36 +28,33 @@ const About = () => {
           },
         }}
       >
-        <Typography variant="h4">Welcome To My Resturant</Typography>
+        <Typography variant="h4">Welcome To My Restaurant</Typography>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat quod,
-          suscipit, aperiam totam autem culpa cum eveniet dolorum quasi est
-          perspiciatis laborum. Nam recusandae nihil quia odio voluptatibus
-          facere omnis facilis rerum? Ab eum beatae nobis reiciendis, qui
-          temporibus aliquid, nesciunt velit sed quam recusandae necessitatibus,
-          tempora maxime. Repellendus incidunt, maxime labore dolorum eos
-          aperiam unde? At veritatis nesciunt eos quas cupiditate blanditiis est
-          quam maiores, amet, soluta exercitationem voluptatum, veniam
-          assumenda? Ratione perferendis officiis deserunt nostrum aspernatur
-          sed asperiores! Earum sunt placeat ducimus sint, deleniti amet esse
-          saepe voluptatem commodi laudantium quibusdam repellat nobis libero at
-          consectetur adipisci ipsa.
+        "Welcome to [SpiceSaga Eatery]! Step into a culinary haven where every dish tells a story and every bite is an experience to savor. Nestled in the heart of [Location], our restaurant is more than just a dining destination; it's a celebration of flavors, creativity, and hospitality.
+
         </p>
         <br />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi,
-          deserunt libero reprehenderit cum sint fugit cumque temporibus modi
-          facere eveniet amet obcaecati ducimus harum velit maxime vel qui
-          voluptatibus quam odio corrupti saepe, voluptas dolorum quidem
-          tempore? Esse sapiente molestias minus enim quisquam dolorum eum culpa
-          ullam impedit velit quo, corporis ducimus numquam dignissimos
-          inventore maiores. Nam deleniti itaque nostrum neque dolorum dolores,
-          aliquam, voluptatum sapiente doloribus laborum perspiciatis ipsam, quo
-          ut nisi distinctio sunt nihil est blanditiis perferendis eveniet
-          nesciunt! Nostrum, voluptatum eveniet repellat vel officia deleniti
-          tempore voluptatibus perferendis esse eaque temporibus porro?
-          Aspernatur beatae deleniti illo autem!
+        As you enter, be prepared to embark on a journey of gastronomic delight, guided by our passionate chefs who meticulously craft each dish with love and expertise. Whether you're here for a casual brunch with friends, a romantic dinner for two, or a special celebration with family, we promise to make your dining experience unforgettable.
+
         </p>
+        <br/>
+
+        <p>
+        Feel the warm ambiance envelop you as you take a seat and peruse our menu, carefully curated to showcase the finest ingredients and culinary techniques. From classic comfort foods to innovative culinary creations, there's something to tempt every palate.
+
+        </p>
+        <br/>
+
+        <p>
+        But it's not just about the food; it's about the memories we create together. Our dedicated team is here to ensure that every moment you spend with us is nothing short of exceptional. So sit back, relax, and let us take care of the rest.
+
+        </p>
+        <br/>
+        <p>
+        Thank you for choosing [SpiceSaga Eatery]. We're honored to have you here, and we look forward to serving you a meal that will leave you craving more. Welcome to a world of culinary delights, where every visit feels like coming home."
+        </p>
+        <br/>
       </Box>
     </Layout>
   );

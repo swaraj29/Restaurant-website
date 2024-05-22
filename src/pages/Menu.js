@@ -15,7 +15,13 @@ const Menu = () => {
     <Layout>
       <Box sx={{ display: "flex", flexWrap: "wrap", justifyContent: "center" }}>
         {MenuList.map((menu) => (
-          <Card sx={{ maxWidth: "390px", display: "flex", m: 2 }}>
+          <Card sx={{
+            maxWidth: "390px",
+            display: "flex",
+            m: 2,
+            backgroundColor: "#333", // Dark background color
+            color: "#fff", // Text color
+          }}>
             <CardActionArea>
               <CardMedia
                 sx={{ minHeight: "400px" }}
@@ -27,7 +33,12 @@ const Menu = () => {
                 <Typography variant="h5" gutterBottom component={"div"}>
                   {menu.name}
                 </Typography>
-                <Typography variant="body2">{menu.description}</Typography>
+                <Typography variant="body2" component="p">
+                  {menu.description}
+                </Typography>
+                <Typography variant="body2" color="#f0f0f0" component="p"> {/* Lighter shade of white */}
+                  Price: ₹{menu.price}
+                </Typography>
               </CardContent>
             </CardActionArea>
           </Card>

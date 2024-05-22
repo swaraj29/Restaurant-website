@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+# SpiceSaga Eatery
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+SpiceSaga Eatery is a contemporary restaurant offering a fusion of traditional and modern cuisines. This website serves as a digital platform for our customers to explore our menu, make reservations, and stay updated on our latest offerings.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Menu Exploration**: Browse through our diverse menu offerings, including appetizers, main courses, desserts, and beverages.
+- **Responsive Design**: The website is optimized for all screen sizes and devices, ensuring a consistent user experience.
+- **Navigation**: Implemented a navigation bar for easy access to different sections of the website.
+- **Menu Display**: Created a menu section to showcase the restaurant's offerings, including food and beverage options.
+- **Cards**: Utilized cards to highlight featured dishes, specials, or promotions, enhancing visual appeal.
+- **Social Icons**: Integrated social media icons to facilitate user engagement and interaction.
+- **Footer Section**: Designed a footer section containing relevant information such as contact details, location, and links to social media profiles.
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- React
+- React Router Version 6
+- Tailwind CSS
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Screenshots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Home Page
+![Home Page](home_page_screenshot_url)
 
-### `npm run build`
+### Menu
+![Menu](menu_screenshot_url)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Reservations
+![Reservations](reservation_screenshot_url)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Events
+![Events](events_screenshot_url)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Reviews
+![Reviews](reviews_screenshot_url)
 
-### `npm run eject`
+## Installation
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Installation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. **Clone the Repository**
+    ```sh
+    git clone https://github.com/yourusername/restaurant-website.git
+    cd restaurant-website
+    ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. **Install Dependencies**
+    ```sh
+    npm install
+    ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+3. **Run the App**
+    ```sh
+    npm start
+    ```
 
-## Learn More
+## Usage
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Navigate through different sections of the website using the navigation bar.
+- Explore the menu to view the restaurant's offerings and specials.
+- Click on social media icons to visit the restaurant's profiles on various platforms.
+- Scroll down to the footer section for contact information and location details.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+For support or inquiries, please contact [028swarajkumar@gmail.com](mailto:028swarajkumar@gmail.com).

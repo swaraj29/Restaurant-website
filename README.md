@@ -25,16 +25,15 @@ SpiceSaga Eatery is a contemporary restaurant offering a fusion of traditional a
 ![Home Page](https://drive.google.com/uc?export=view&id=1zSH4CEbvp69sV3UjKp8AyQu8Mg4cDdCf)
 
 ### Menu
-![Menu](menu_screenshot_url)
+![Menu](https://drive.google.com/uc?export=view&id=1azJYCs__2BFRXK5OtePTIG3CdkdWduUA)
 
-### Reservations
-![Reservations](reservation_screenshot_url)
+### About
+![About](https://drive.google.com/uc?export=view&id=1kjxjdqq1u9pUtVrvBeOtc468mfiKCkWP)
 
-### Events
-![Events](events_screenshot_url)
+### Contact
+![Contact](https://drive.google.com/uc?export=view&id=1WaXgoTvhq2n9QlBI021tpRDv0rYBKbMT)
 
-### Reviews
-![Reviews](reviews_screenshot_url)
+
 
 ## Installation
 
